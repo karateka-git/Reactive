@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/navigation_rx_java"
-        android:name="com.example.reactive.ui.home.HomeFragment"
+        android:name="com.example.reactive.ui.rxJava.RxJavaFragment"
         android:label="@string/title_rx_java"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_rx_java" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
